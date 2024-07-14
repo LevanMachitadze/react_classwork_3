@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <h1>header</h1>
-      <button onClick={setRandomName}>Select Random Number</button>
+      <button onClick={setRandomName}>Select Random Name</button>
       <p>Hallo {random} </p>
     </>
   );
